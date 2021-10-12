@@ -7,4 +7,5 @@
     <string name="txt_name_admin">txt_name_admin</string>
     <string name="txt_email_admin">.</string>
     <string name="btn_continue">btn_continue</string>
+    <string name="verification_text">.</string>
 </resources>
