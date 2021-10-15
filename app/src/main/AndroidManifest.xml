@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Hotelife">
         <activity
+            android:name=".home_admin"
+            android:exported="true" />
+        <activity
+            android:name=".toolbar_site"
+            android:exported="true" />
+        <activity
             android:name=".verification"
             android:exported="true" />
         <activity
@@ -20,7 +26,6 @@
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>

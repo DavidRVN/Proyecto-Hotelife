@@ -8,4 +8,7 @@
     <string name="txt_email_admin">.</string>
     <string name="btn_continue">btn_continue</string>
     <string name="verification_text">.</string>
+    <string name="home">.</string>
+    <string name="services">.</string>
+    <string name="others">.</string>
 </resources>

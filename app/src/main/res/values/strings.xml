@@ -11,4 +11,9 @@
     <string name="btn_continue">btn_continue</string>
     <string name="txt_password" />
     <string name="verification_text">.</string>
+    <string name="home">.</string>
+    <string name="services">.</string>
+    <string name="others">.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

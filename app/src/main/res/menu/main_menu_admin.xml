@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mn_home"
+        android:enabled="true"
+        android:color="@color/head"
+        android:icon="@drawable/hotel_home"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/mn_camera"
+        android:enabled="true"
+        android:color="@color/head"
+        android:icon="@drawable/reception"
+        android:title="@string/services"/>
+    <item
+        android:id="@+id/mn_contact"
+        android:enabled="true"
+        android:color="@color/head"
+        android:title="@string/others"
+        />
+
+</menu>
