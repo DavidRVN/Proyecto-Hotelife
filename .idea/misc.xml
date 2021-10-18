@@ -3,21 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/David/AndroidStudioProjects/Hotelife/app/src/main/res/layout/activity_home_admin.xml" value="0.34479166666666666" />
         <entry key="..\:/Users/David/AndroidStudioProjects/Hotelife/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
-        <entry key="..\:/Users/David/AndroidStudioProjects/Hotelife/app/src/main/res/layout/activity_navigation_menu_admin.xml" value="0.3307291666666667" />
-        <entry key="..\:/Users/David/AndroidStudioProjects/Hotelife/app/src/main/res/layout/activity_register_admin.xml" value="0.28940217391304346" />
-        <entry key="..\:/Users/David/AndroidStudioProjects/Hotelife/app/src/main/res/layout/activity_toolbar_site.xml" value="0.34479166666666666" />
-        <entry key="..\:/Users/David/AndroidStudioProjects/Hotelife/app/src/main/res/layout/activity_verification.xml" value="0.34479166666666666" />
-        <entry key="..\:/Users/David/AndroidStudioProjects/Hotelife/app/src/main/res/layout/custom_dialog.xml" value="1.486842105263158" />
-        <entry key="..\:/Users/David/AndroidStudioProjects/Hotelife/app/src/main/res/layout/custom_layout.xml" value="0.34479166666666666" />
-        <entry key="..\:/Users/David/AndroidStudioProjects/Hotelife/app/src/main/res/layout/fragment_home_admin.xml" value="0.34479166666666666" />
-        <entry key="..\:/Users/David/AndroidStudioProjects/Hotelife/app/src/main/res/layout/fragment_navigation_admin_menu.xml" value="0.34479166666666666" />
-        <entry key="..\:/Users/David/AndroidStudioProjects/Hotelife/app/src/main/res/layout/navigation_menu_admin.xml" value="0.34479166666666666" />
-        <entry key="..\:/Users/David/AndroidStudioProjects/Hotelife/app/src/main/res/menu-v26/admin_menu.xml" value="0.34479166666666666" />
-        <entry key="..\:/Users/David/AndroidStudioProjects/Hotelife/app/src/main/res/menu/admin_menu.xml" value="0.34479166666666666" />
-        <entry key="..\:/Users/David/AndroidStudioProjects/Hotelife/app/src/main/res/menu/main_menu.xml" value="0.34479166666666666" />
-        <entry key="..\:/Users/David/AndroidStudioProjects/Hotelife/app/src/main/res/menu/main_menu_admin.xml" value="0.25" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Proyecto-Hotelife/app/src/main/res/layout/activity_home_admin.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Proyecto-Hotelife/app/src/main/res/layout/activity_home_guest.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Proyecto-Hotelife/app/src/main/res/layout/activity_home_huesped.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Proyecto-Hotelife/app/src/main/res/layout/activity_main.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Proyecto-Hotelife/app/src/main/res/layout/activity_navigation_menu_admin.xml" value="0.25" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Proyecto-Hotelife/app/src/main/res/layout/activity_register_admin.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Proyecto-Hotelife/app/src/main/res/layout/activity_register_guest.xml" value="0.21" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Proyecto-Hotelife/app/src/main/res/layout/activity_toolbar_site.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Proyecto-Hotelife/app/src/main/res/layout/activity_verification.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Proyecto-Hotelife/app/src/main/res/layout/custom_dialog.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Proyecto-Hotelife/app/src/main/res/layout/custom_layout.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Proyecto-Hotelife/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Proyecto-Hotelife/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22447916666666667" />
       </map>
     </option>
   </component>
