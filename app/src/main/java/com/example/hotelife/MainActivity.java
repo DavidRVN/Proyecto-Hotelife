@@ -11,12 +11,12 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_home_guest);
 
-        Button btn_register = findViewById(R.id.btn_register);
+        /*Button btn_register = findViewById(R.id.btn_register);
         btn_register.setOnClickListener(v->{
             showRegisterAdmin();
-        });
+        });*/
 
     }
 

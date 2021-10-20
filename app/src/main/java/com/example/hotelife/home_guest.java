@@ -19,36 +19,14 @@ public class home_guest extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home_guest);
 
-        service= (Spinner) findViewById(R.id.service);
 
-        ArrayList<String> elementos= new ArrayList<>();
-
-        elementos.add("Elemento 1");
-        elementos.add("Elemento 2");
-        elementos.add("Elemento 3");
-        elementos.add("Elemento 4");
-        elementos.add("Elemento 5");
-        elementos.add("Elemento 6");
-
-        ArrayAdapter adp=new ArrayAdapter(home_guest.this, android.R.layout.simple_spinner_dropdown_item, elementos);
-
-        service.setAdapter(adp);
-
-        service.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
-            @Override
-            public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
-                String elemento= (String) service.getAdapter().getItem(0);
-
-                Toast.makeText(home_guest.this, "Seleccionaste: "+elemento,Toast.LENGTH_SHORT).show();
-            }
-
-            @Override
-            public void onNothingSelected(AdapterView<?> adapterView) {
-
-            }
-        });
-
-
+        Spinner spinCountry;
+        spinCountry= (Spinner) findViewById(R.id.spinCountry);//fetch the spinner from layout file
+        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
+                android.R.layout.simple_spinner_item, getResources()
+                .getStringArray(R.array.country_array));//setting the country_array to spinner
+        adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+        spinCountry.setAdapter(adapter);
 
     }
 }

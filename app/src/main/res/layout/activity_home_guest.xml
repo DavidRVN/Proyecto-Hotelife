@@ -15,14 +15,17 @@
         android:text="HomeGuest"
         android:textSize="30dp"
         tools:layout_editor_absoluteX="125dp"
-        tools:layout_editor_absoluteY="16dp" />
+        tools:layout_editor_absoluteY="40dp" />
 
     <Spinner
-        android:id="@+id/service"
-        android:layout_height="55dp"
-        android:layout_width="346dp"
-        tools:layout_editor_absoluteX="32dp"
-        tools:layout_editor_absoluteY="129dp" />
+        android:id="@+id/spinCountry"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:paddingLeft="8dp"
+        android:popupBackground="@android:color/white"
+        android:scrollbars="none"
+        android:spinnerMode="dropdown" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 
