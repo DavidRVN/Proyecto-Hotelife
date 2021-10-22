@@ -48,5 +48,13 @@ public class MainActivity extends AppCompatActivity {
         Intent registerGuest = new Intent(this,register_guest.class);
         startActivity(registerGuest);
     }
+    //pendiente para prueba (acordeon)
+    /*Button findMagicBtn = (Button) findViewById(R.id.best_btn);
+        findMagicBtn.setOnClickListener(new View.OnClickListener() {
+        @Override
+        public void onClick(View v) {
+
+        }
+    });*/
 
 }
