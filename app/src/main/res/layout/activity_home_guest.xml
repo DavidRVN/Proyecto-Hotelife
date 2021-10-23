@@ -18,21 +18,31 @@
         tools:layout_editor_absoluteY="69dp"
         tools:ignore="MissingConstraints" />
 
-    <Button
-        android:id="@+id/best_btn"
-        android:layout_width="357dp"
-        android:layout_height="46dp"
-        android:text="best"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="27dp"
-        tools:layout_editor_absoluteY="197dp" />
 
-    <LinearLayout
-        android:id="@+id/magic_layout"
-        android:layout_width="69dp"
-        android:layout_height="64dp"
-        android:orientation="vertical"
-        android:visibility="gone"
-        tools:ignore="MissingConstraints"></LinearLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".TasksListActivity"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp">
+
+
+        <Button
+            android:id="@+id/magic_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Magic Btn" />
+
+        <LinearLayout
+            android:id="@+id/magic_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+        </LinearLayout>
+    </ScrollView>
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
 
